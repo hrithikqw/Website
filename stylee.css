@@ -37,16 +37,19 @@
     display: flex;
     color:white;
     text-align: center;
+    text-decoration:none;
 }
 .navi ul li{
     display:inline-block;
     margin:0 20px;
+
    
 }
 .navi ul li a{
     color:aliceblue;
     text-transform: uppercase;
     text-align: right;
+    text-decoration: none;
 }
 
 .content h1{
@@ -115,7 +118,7 @@ span{
 .design_btn:hover{
     color: black;
     background-color: white;
-    transition-duration: 1s;
+    transition-duration: 0.5s;
 }
 .button2:hover{
     color: black;
